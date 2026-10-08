@@ -1,0 +1,6 @@
+.env
+.adk/
+.venv/
+__pycache__/
+*.tfstate*
+.terraform/
